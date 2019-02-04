@@ -30,9 +30,7 @@ Feel free to edit this file and add your own features with a link to them.
 - 
 
 ### Effects
-- 
-- 
-- 
+- [Cleeve](https://github.com/WebCreationClub/cleeve-effect "Title")
 
 ### Themes
 - Construct 3 Classic Themes (Visual Studio) [https://github.com/WebCreationClub/c3-classic-themes-visual-studio]
